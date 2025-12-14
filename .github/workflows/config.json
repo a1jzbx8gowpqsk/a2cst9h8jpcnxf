@@ -1,0 +1,25 @@
+{
+  "targets": [
+    {
+      "name": "CN Forbidden city",
+      "start": "(Tl X: 1685, Tl Y: 775, Px X: 850, Px Y: 655)",
+      "end": "(Tl X: 1686, Tl Y: 776, Px X: 442, Px Y: 354)",
+      "enabled": true,
+      "gif": false
+    },
+    {
+      "name": "KR Liancourt rocks",
+      "start": "(Tl X: 1774, Tl Y: 795, Px X: 36, Px Y: 23)",
+      "end": "(Tl X: 1774, Tl Y: 795, Px X: 404, Px Y: 456)",
+      "enabled": true,
+      "gif": false
+    },
+    {
+      "name": "JP Imperial Palace",
+      "start": "(Tl X: 1818, Tl Y: 806, Px X: 837, Px Y: 284)",
+      "end": "(Tl X: 1819, Tl Y: 806, Px X: 445, Px Y: 691)",
+      "enabled": true,
+      "gif": false
+    }
+  ]
+}
